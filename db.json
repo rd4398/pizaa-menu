@@ -1,0 +1,55 @@
+{
+  "pizzas": [
+    {
+      "title": "The Classic Veggie",
+      "description": "An extra cheesy pizza on a thin and crispy base, loaded with olives and mushrooms.",
+      "toppings": [
+        "mushrooms",
+        "olives"
+      ],
+      "price": 12,
+      "id": 1
+    },
+    {
+      "title": "Veggie BBQ Special",
+      "description": "Peppers and mushrooms on a special garlic base, with bbq sauce instead of the usual tomato.",
+      "toppings": [
+        "mushrooms",
+        "peppers"
+      ],
+      "price": 10,
+      "id": 2
+    },
+    {
+      "title": "The Hawaiian",
+      "description": "A fruity combination of pineapply, sweetorn and mushrooms on a light, thin base.",
+      "toppings": [
+        "pineapple"
+      ],
+      "price": 15,
+      "id": 3
+    },
+    {
+      "title": "Cheese Lovers",
+      "description": "A cheese overload pizza on a classic base.",
+      "toppings": [
+        "cheese"
+      ],
+      "price": 8,
+      "id": 4
+    },
+    {
+      "title": "The Everything",
+      "description": "All available toppings on a garlic base",
+      "toppings": [
+        "mushrooms",
+        "peppers",
+        "sweetcorn",
+        "olives",
+        "pineapple"
+      ],
+      "price": 20,
+      "id": 5
+    }
+  ]
+}
